@@ -1,0 +1,18 @@
+# Cypress
+.cache
+cypress/screenshots
+cypress/videos
+cypress/results
+cypress/reports
+cypress/fixtures
+cypress/support/index.js
+
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+
+# IDE configurations
+.vscode/
+.idea/
